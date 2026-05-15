@@ -1,1 +1,2 @@
-google.com, pub-2345067945668624, DIRECT, f08c47fec0942fa0
+https://suesa26.github.io/MS-website-ads-txt/ads.txt
+
