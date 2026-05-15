@@ -1,1 +1,0 @@
-# MS-website-ads-txt
